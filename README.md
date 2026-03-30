@@ -25,6 +25,7 @@ A personal portfolio website to showcase my skills, projects, and contact inform
 - Scroll reveal animations
  
 **Tech:** HTML5 · CSS3 · JavaScript
+
 Link:- https://spatil-cse.github.io/CODSOFT/
  
 ---
