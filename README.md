@@ -43,6 +43,8 @@ A creative agency landing page for **NexGen Studio** with a modern editorial des
 - Scroll reveal animations
  
 **Tech:** HTML5 · CSS3 · JavaScript
+
+Link:- file:///C:/Users/SHIVLING/OneDrive/Documents/GitHub/CODSOFT/Task-2%20LandingPage.html
  
 ---
  
@@ -58,7 +60,8 @@ A fully functional calculator with a dark terminal-themed UI.
 - Animated button interactions
  
 **Tech:** HTML5 · CSS3 · JavaScript
- 
+
+Link:- file:///C:/Users/SHIVLING/OneDrive/Documents/GitHub/CODSOFT/Task-3%20Calculator.html
 ---
  
 ## 🛠️ Tech Stack
