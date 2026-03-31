@@ -44,7 +44,7 @@ A creative agency landing page for **NexGen Studio** with a modern editorial des
  
 **Tech:** HTML5 · CSS3 · JavaScript
 
-Link:- 
+Link:- https://spatil-cse.github.io/CODSOFT/landing_page.html
  
 ---
  
