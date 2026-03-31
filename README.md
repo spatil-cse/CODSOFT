@@ -61,7 +61,7 @@ A fully functional calculator with a dark terminal-themed UI.
  
 **Tech:** HTML5 · CSS3 · JavaScript
 
-Link:- 
+Link:- https://spatil-cse.github.io/CODSOFT/calculator.html
  
 ## 🛠️ Tech Stack
  
