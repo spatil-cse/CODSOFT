@@ -94,6 +94,7 @@ No server or installation needed. Just:
 - 🐙 GitHub: [github.com/spatil-cse](https://github.com/spatil-cse)
  
 ---
- 
+
+ ⭐ If you found this project useful, consider giving it a star!
 
  
